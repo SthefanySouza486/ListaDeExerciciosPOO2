@@ -38,6 +38,9 @@ O repositório está organizado da seguinte forma:
 👩‍🎓 Autora
 Desenvolvido por Sthefany Aparecida de Souza como parte das atividades acadêmicas.
 
+📌 Observação: Este repositório tem fins didáticos e demonstra a prática dos conceitos estudados em sala de aula.
+
+
 
 
 
